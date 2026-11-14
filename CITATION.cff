@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Health New Zealand | Te Whatu Ora API Development and Security Standards
+authors:
+- name: Middleware New Zealand
+- name: Health New Zealand API Standards contributors
+repository-code: https://github.com/edithatogo/api-standards
+url: https://github.com/edithatogo/api-standards
+preferred-citation:
+  type: standard
+  title: Health New Zealand | Te Whatu Ora API Development and Security Standards
+  authors:
+  - name: Middleware New Zealand
+  - name: Health New Zealand API Standards contributors
+  url: https://github.com/edithatogo/api-standards
+references:
+- type: standard
+  title: Health New Zealand | Te Whatu Ora API Development and Security Standards
+  authors:
+  - name: Middleware New Zealand
+  - name: Health New Zealand API Standards contributors
+  repository-code: https://github.com/tewhatuora/api-standards
+  url: https://github.com/tewhatuora/api-standards
